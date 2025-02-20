@@ -93,7 +93,7 @@
 <body>
 
     <header>
-        <h1>Welcome to Sai Ganapathi Polytechnic College</h1>
+        <h1>Welcome</h1>
     </header>
 
     <nav>
